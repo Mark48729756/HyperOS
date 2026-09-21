@@ -96,7 +96,7 @@ This patch release focuses on stability improvements, pin mapping reorganization
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mark48729756/HyperOS
    ```
 2. **Open the workspace** in your preferred IDE (VS Code / PlatformIO).
 3. **Verify your wiring** against the [Pinout Reference](#-ultimate-pinout-reference).
