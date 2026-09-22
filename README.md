@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Project Name / Hardware Hub
+# 🚀 HyperOS
 *Advanced Microcontroller & Sensor Integration Framework*
 
 [![Version](https://img.shields.io/badge/version-1.303.1-blue.svg?style=flat-square)](../../releases/tag/v1.303.1)
