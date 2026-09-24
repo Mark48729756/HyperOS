@@ -1,3 +1,4 @@
+<img width="467" height="192" alt="1377" src="https://github.com/user-attachments/assets/b75a21ed-2b95-4e9e-82a4-96eb540f38f6" />
 <div align="center">
 
 # 🚀 HyperOS
